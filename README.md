@@ -1,16 +1,14 @@
-# 📄 TP MongoDB --- E-commerce & Réseau Social
+# 📄 TP MongoDB — E-commerce & Réseau Social
 
-::: {align="center"}
-`<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/mongosh-shell-4DB33D?logo=mongodb&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/CRUD-operations-blue" />`{=html}
-`<img src="https://img.shields.io/badge/TP-database-orange" />`{=html}
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongosh-shell-4DB33D?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/CRUD-operations-blue" />
+  <img src="https://img.shields.io/badge/TP-database-orange" />
+</p>
 
-`<br/>`{=html}
+TP réalisé dans le cadre de l'apprentissage de MongoDB et des bases de données NoSQL.
 
-TP réalisé dans le cadre de l'apprentissage de MongoDB et des bases de
-données NoSQL.
-:::
 
 ------------------------------------------------------------------------
 
