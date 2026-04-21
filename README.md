@@ -1,38 +1,102 @@
-PARTIE 1 — E-commerce
-Création de la base
+# 📄 TP MongoDB --- E-commerce & Réseau Social
 
-Insertion des users
+::: {align="center"}
+`<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/mongosh-shell-4DB33D?logo=mongodb&logoColor=white" />`{=html}
+`<img src="https://img.shields.io/badge/CRUD-operations-blue" />`{=html}
+`<img src="https://img.shields.io/badge/TP-database-orange" />`{=html}
 
-Insertion des produits
+`<br/>`{=html}
 
-Commande
+TP réalisé dans le cadre de l'apprentissage de MongoDB et des bases de
+données NoSQL.
+:::
 
-Requêtes
+------------------------------------------------------------------------
 
-Mise à jour
+## 📌 Présentation
 
-Suppression
+Ce TP est divisé en deux parties :
 
-PARTIE 2 — Réseau social
-Users
+-   E-commerce
+-   Réseau social
 
-Publications
+------------------------------------------------------------------------
 
-Commentaires
+## 🟦 PARTIE 1 --- E-commerce
 
-Likes
+### Base
 
-Requêtes demandées
+``` js
+use ecommerce
+```
 
-Pourquoi MongoDB est adapté
+### Collections
 
-Inconvénients SQL
+-   users
+-   products
+-   orders
 
-PARTIE 3 — Mini API
-Choix du thème
+### Données
 
-Endpoints
+-   3 utilisateurs
+-   4 produits
+-   1 commande
 
-Exemple de recherche
+### Requêtes
 
-Exemple de document
+-   afficher utilisateurs
+-   produits \> 50€
+-   utilisateurs de Paris
+-   commandes
+
+### Update
+
+-   modifier âge
+
+### Delete
+
+-   supprimer produit
+
+------------------------------------------------------------------------
+
+## 🟩 PARTIE 2 --- Réseau Social
+
+### Collections
+
+-   users
+-   posts
+
+### Données
+
+-   3 utilisateurs
+-   5 posts
+
+### Structure post
+
+-   auteur
+-   contenu
+-   date
+-   commentaires \[\]
+-   likes \[\]
+
+### Actions
+
+-   ajouter commentaires
+-   ajouter likes
+
+### Requêtes
+
+-   toutes publications
+-   publications d'un user
+-   commentaires
+-   post avec + de likes
+-   nombre de posts / user
+
+------------------------------------------------------------------------
+
+## 👤 Auteur
+
+Mouad BOUNOKRA
+
+TP MongoDB --- 2026
