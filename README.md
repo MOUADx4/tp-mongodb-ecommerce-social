@@ -21,7 +21,7 @@ Ce TP est divisé en deux parties :
 
 ------------------------------------------------------------------------
 
-## 🟦 PARTIE 1 --- E-commerce
+## PARTIE 1 --- E-commerce
 
 ### Base
 
@@ -58,7 +58,7 @@ use ecommerce
 
 ------------------------------------------------------------------------
 
-## 🟩 PARTIE 2 --- Réseau Social
+## PARTIE 2 --- Réseau Social
 
 ### Collections
 
