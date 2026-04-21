@@ -1,4 +1,4 @@
-# 📄 TP MongoDB — E-commerce & Réseau Social
+# TP MongoDB — E-commerce & Réseau Social
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb&logoColor=white" />
@@ -12,7 +12,7 @@ TP réalisé dans le cadre de l'apprentissage de MongoDB et des bases de donnée
 
 ------------------------------------------------------------------------
 
-## 📌 Présentation
+## Présentation
 
 Ce TP est divisé en deux parties :
 
@@ -93,7 +93,7 @@ use ecommerce
 
 ------------------------------------------------------------------------
 
-## 👤 Auteur
+## Auteur
 
 Mouad BOUNOKRA
 
